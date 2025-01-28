@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GUI
+comment1.params=
+comment1.target=GUI()
+comment2.params=
+comment2.target=void\ inicializarGUI()
+comment3.params=
+comment3.target=void\ inicializarBotones()
+comment3.text=Inicializar\ botones\:\ inicializa\ los\ botones\ que\ representan\ las\ celdas\ del\ tablero.\r\n\ @todo\:\r\n\ Crear\ la\ matriz\ de\ botones.\ \r\n\ Por\ cada\ elemento\ de\ la\ matriz\:\ \r\n\ \ \ Crear\ cada\ uno\ de\ los\ botones;\r\n\ \ \ establecer\ su\ action\ command\ tal\ como\ se\ encuentra\ comentado\ en\ este\ c\u00F3digo\ fuente;\r\n\ \ \ vincularlo\ con\ \ el\ oyente\ "OyenteBotonCelda";\r\n\ \ \ indicar\ que\ dicho\ boton\ se\ encuentra\ deshabilitado;\r\n\ \ \ establecer\ la\ imagen\ "imagenInicial.jpg";\r\n\ \ \ adicionar\ el\ boton\ en\ cuesti\u00F3n\ al\ panelCeldas.\ \r\n
+numComments=4

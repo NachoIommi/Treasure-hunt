@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Tablero()
+comment1.params=
+comment1.target=int\ cantMinas()
+comment2.params=
+comment2.target=int\ cantTesoros()
+comment3.params=
+comment3.target=int\ cantTotalMinasTesoros()
+comment4.params=i\ j
+comment4.target=int\ obtenerCosto(int,\ int)
+comment5.params=
+comment5.target=int\ cantFil()
+comment6.params=
+comment6.target=int\ cantCol()
+comment7.params=i\ j
+comment7.target=java.lang.String\ obtenerImagenCelda(int,\ int)
+numComments=8
